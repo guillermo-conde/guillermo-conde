@@ -1,6 +1,10 @@
 # ¡Hola, soy Guillermo! 👋
 
-Bienvenido/a a mi perfil de GitHub. Soy un programador apasionado especializado en React/NextJs. Me encanta construir soluciones creativas y enfrentar desafíos en el mundo de la programación.
+Bienvenido/a a mi perfil de GitHub. un apasionado programador frontend especializado en React/Next.js. Siempre me ha fascinado el mundo de la tecnología y disfruto creando interfaces interactivas y atractivas para los usuarios. 
+
+Disfruto trabajando en un entorno dinámico donde puedo intercambiar ideas con otros profesionales y aprender de su experiencia.
+
+Estoy abierto a nuevas oportunidades y emocionado por formar parte de proyectos desafiantes que me permitan seguir creciendo profesionalmente. Si estás buscando un programador frontend apasionado y comprometido ¡estoy aquí para ayudar!
 
 ## Tecnologías y Lenguajes
 
@@ -13,7 +17,10 @@ Bienvenido/a a mi perfil de GitHub. Soy un programador apasionado especializado 
 - CSS
 - SASS
 - SEO
-- 
+
+## Portfolio
+
+Echa un vistazo a mi [portafolio de proyectos](https://guillermoconde.com) para conocer más sobre mis proyectos y habilidades e incluso echar un vistazo a mi CV.
 
 ## Experiencia Laboral
 
@@ -40,11 +47,6 @@ Mis principales responsabilidades fueron:
 Puedes contactarme a través de:
 - Correo electrónico: [condeguillermo8@gmail.com](mailto:condeguillermo8@gmail.com)
 - LinkedIn: [guillermo-conde-flores](www.linkedin.com/in/guillermo-conde-flores)
-
-## Portfolio
-
-Echa un vistazo a mi [portafolio de proyectos](https://guillermoconde.com) para conocer más sobre mis proyectos y habilidades.
-
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en contactarme si tienes alguna pregunta o propuesta de colaboración.
 
