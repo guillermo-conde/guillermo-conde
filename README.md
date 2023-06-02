@@ -46,7 +46,7 @@ Mis principales responsabilidades fueron:
 
 Puedes contactarme a través de:
 - Correo electrónico: [condeguillermo8@gmail.com](mailto:condeguillermo8@gmail.com)
-- LinkedIn: [guillermo-conde-flores](www.linkedin.com/in/guillermo-conde-flores)
+- LinkedIn: [guillermo-conde-flores](https://www.linkedin.com/in/guillermo-conde-flores)
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en contactarme si tienes alguna pregunta o propuesta de colaboración.
 
