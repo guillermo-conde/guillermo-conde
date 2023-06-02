@@ -1,6 +1,6 @@
 # ¡Hola, soy Guillermo! 👋
 
-Bienvenido/a a mi perfil de GitHub. un apasionado programador frontend especializado en React/Next.js. Siempre me ha fascinado el mundo de la tecnología y disfruto creando interfaces interactivas y atractivas para los usuarios. 
+Bienvenido/a a mi perfil de GitHub. Soy un apasionado programador frontend especializado en React/Next.js. Siempre me ha fascinado el mundo de la tecnología y disfruto creando interfaces interactivas y atractivas para los usuarios. 
 
 Disfruto trabajando en un entorno dinámico donde puedo intercambiar ideas con otros profesionales y aprender de su experiencia.
 
